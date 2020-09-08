@@ -1,0 +1,6 @@
+*+-!=(){}[]^$|?:\.
+
+wild card
+.
+1: Regex -> /.ohn/
+test string -> John , mohn
